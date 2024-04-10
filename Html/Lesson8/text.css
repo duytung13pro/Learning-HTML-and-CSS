@@ -1,0 +1,119 @@
+p{
+    font-family: arial;
+}
+.Name{
+
+}
+.Email{
+    display: block;
+}
+.description{
+    width:200px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.button{
+    display: inline-block;
+    vertical-align: middle;
+}
+.logo{
+    width: 300px;
+    margin-bottom: 0px;
+    margin-left: 300px;
+}
+.googlesearch{
+    font-size: 16px;
+    border:none;
+    padding-top: 12px;
+    padding-right: 16px;
+    padding-bottom: 12px;
+    padding-left: 12px;
+    width: 500px;
+    border-radius: 30px;
+    box-shadow: 0 1px 6px rgb(0, 0, 0,0.3);
+}
+.firstname,.lastname{
+    width: 100px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    font-family: Arial;
+    border-radius: 5px;
+    border:1px;
+    border-style: solid;
+    border-color: rgb(128, 128, 128,.5);
+    margin-bottom: 5px;
+}
+.email{
+    display: block;
+    width: 215.5px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 8px;
+    font-family: Arial;
+    border-radius: 5px;
+    border:1px;
+    border-style: solid;
+    border-color: rgb(128, 128, 128,.5);
+    margin-bottom: 5px;
+}
+.signupbutton{
+    background-color: rgb(78, 128, 255);
+    border: none;
+    color: white;
+    font-weight: bold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 90px;
+    padding-right: 88px;
+    border-radius: 5px;
+}
+.request{
+    font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 15px;
+}
+.location{
+    display: block;
+    background-color: rgba(158, 158, 158, 0.2);
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 130px;
+    font-family: Arial;
+    border: none;
+    margin-bottom: 5px;
+}
+.destination{
+    display: block;
+    background-color: rgba(158, 158, 158, 0.2);
+    padding-left: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 130px;
+    font-family: Arial;
+    border: none;
+    margin-bottom: 30px;
+}
+.requestbutton{
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    margin-right: 20px;
+
+}
+.schedulebutton{
+    background-color: rgba(128, 128, 128, 0.1);
+    color: black;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: none;
+    font-style: bold;
+    margin-right: 20px;
+}
